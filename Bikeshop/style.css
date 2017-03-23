@@ -34,6 +34,12 @@ li {
 	text-align: center;
 }
 
+p {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 300;
+}
+
 h1 {
 	 font-family: 'Amatic SC', cursive;
 	 font-size: 60px;
@@ -45,6 +51,21 @@ h2 {
 	color: #000;
 	font-weight: 300;
 	text-align: center;
+}
+
+h3 {
+	font-family: 'Abel', sans-serif;
+	font-size: 28px;
+	text-align: center;
+	text-transform: uppercase;
+	color: #14213D;
+}
+
+h4 {
+	color: #FCA311;
+	font-family: 'Abel', sans-serif;
+	font-size: 24px;
+	margin: 0 0 50 0;
 }
 
 a {
@@ -59,6 +80,14 @@ a {
 	background-image: -webkit-linear-gradient(#FFD194, #BC1324);
 }
 
+.products {
+	background: #EEEFF1;
+
+}
+
+.entete_products {
+	color: #14213D;
+}
 
 
 
