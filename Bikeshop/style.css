@@ -1,9 +1,4 @@
 
-/*
-font-family: 'Abel', sans-serif;
-font-family: 'Amatic SC', cursive;
-font-family: 'Raleway', sans-serif;
-*/
 
 body {
   background-color: #FFF;
@@ -27,11 +22,19 @@ li {
 #ouverture {
 	height: 900px;
 	width: 100%;
-	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg") no-repeat;
+	position: relative;
+	top: -40px;
+	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
-#ouverture_contenu {
+.ouverture_contenu {
 	text-align: center;
+	position: relative;
+	top: 280px;
+	width: 70%;
+	margin: 0 auto;
 }
 
 p {
