@@ -1,0 +1,28 @@
+Bikeshop
+Cahier des charges simplifié
+
+> POLICES
+"https://fonts.googleapis.com/css?family=Abel|Amatic+SC|Raleway:100,200,300,400,500,600,700,800,900"
+
+
+> IMAGES
+principale : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg
+
+>> PRODUITS
+>>> Best Sellers
+The Monarch : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike.png
+
+The Sunny : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike2.png"
+
+The Crimson : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike3.png
+
+The Lisa : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike4.png
+
+>>> Newest Bikes
+The Octopus : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike5.png
+
+The Gemini : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike6.png
+
+The Techie : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike7.png
+
+The Mini : https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bike8.png
