@@ -1,4 +1,50 @@
 
+/*
 font-family: 'Abel', sans-serif;
 font-family: 'Amatic SC', cursive;
 font-family: 'Raleway', sans-serif;
+*/
+
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+.navigation {
+	background-color: rgba(255, 255, 255, 0.9);
+	text-align: center;
+}
+
+li {
+	color: #14213D;
+	font-family: 'Abel', sans-serif;
+	text-decoration: none;
+	display: inline-block;
+	text-transform: uppercase;
+}
+
+#ouverture {
+	height: 900px;
+	width: 100%;
+	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg") no-repeat;
+}
+
+#ouverture_contenu {
+	text-align: center;
+}
+h1 {
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+  color: #FFF;
+}
+
+h2 {
+	font-family: 'Raleway', sans-serif;
+	color: #000;
+	font-weight: 300;
+	text-align: center;
+}
+
+
+
