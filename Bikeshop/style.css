@@ -9,23 +9,41 @@ body {
 .navigation {
 	background-color: rgba(255, 255, 255, 0.9);
 	text-align: center;
+	position: fixed;
+	height: 105px;
+	width: 100%;
+	left: 0;
+	top: 0;
+	 z-index: 10000;
+	 overflow-y: auto;
+}
+
+#logo {
+	color: #FCA311;
+	font-family: 'Amatic SC', cursive;
+	font-size: 32px;
+	padding: 0px 50px;
 }
 
 li {
-	color: #14213D;
-	font-family: 'Abel', sans-serif;
-	text-decoration: none;
-	display: inline-block;
-	text-transform: uppercase;
+  color: #14213D;
+  display: inline-block;
+  font-family: 'Abel', sans-serif;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 300;
+  margin: 16px 20px;
+  text-transform: uppercase;
 }
 
 #ouverture {
 	height: 900px;
 	width: 100%;
 	position: relative;
-	top: -40px;
-	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg");
+	top: -55px;
+	background: url("https://s3.amazonaws.com/codecademy-content/courses/web-101/unit-8/htmlcss1-img_bicycles.jpeg")center bottom;
 	background-repeat: no-repeat;
+	background-size: cover;
     background-attachment: fixed;
 }
 
@@ -53,6 +71,7 @@ h2 {
 	font-family: 'Raleway', sans-serif;
 	color: #000;
 	font-weight: 300;
+	font-size: 42px;
 	text-align: center;
 }
 
